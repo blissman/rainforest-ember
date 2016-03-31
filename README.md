@@ -1,6 +1,6 @@
-# Ember-quickstart
+# Rainforest-Ember
 
-This is a simple Amazon clone built with Rails and Ember.js.
+This is a simple Amazon clone built with Rails and Ember.js. 
 
 ## Prerequisites
 
